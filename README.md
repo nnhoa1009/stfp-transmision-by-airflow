@@ -1,4 +1,4 @@
-# airflow-asssignment
+# stfp-transmision-by-airflow
 
 ## This repository is to solve the preliminary assessment problem [here](https://data-gcdn.basecdn.net/202403/sys8305/hiring/12/14/DHCHY5WJFE/e472079b3561e2ea177c6d4eeeacfcf3/DFFYK27DJMTMTYNKEQSYS624Z3FDQ6B9VQM68MZMDNGFJWK7GFKE5RNGB85HKFYNP8YH8XB6VXEQEKF49P73KD/f5/56/d4/25/9d/965ac629170ca1f2cebe8231e5c8e6b5/preliminary_assessment.pdf), please review the problem if you need it.
 
