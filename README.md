@@ -39,7 +39,7 @@
      }'
 ```
 The connections information is similar if you use Airflow UI
-- Next go to Airflow UI,xlick to the DAG `sftp_tx_operations_workflow` and trigger it manually. Since I defined this DAG to run only when needed, I did not add interval scheduling.
+- Next go to Airflow UI, click to the DAG `sftp_tx_operations_workflow` and trigger it manually. Since I defined this DAG to run only when needed, I did not add interval scheduling.
 
 **Note: You must use the `Trigger DAG` button in the upper right corner of the screen. If you just press `Unpause DAG`, the DAG will not automatically trigger.**
 
